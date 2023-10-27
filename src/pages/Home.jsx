@@ -70,8 +70,12 @@ import {
             <Text>Nasi Kuning</Text>
             <Text>Rp.10.000</Text>
           </View>
+          <View>
+            
+          </View>
         </View>
       </View>
+      
     );
   };
   
